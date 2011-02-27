@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="jpath" duration-ms="155" started-at="2011-02-27T13:48:27Z" finished-at="2011-02-27T13:48:27Z">
+    <groups>
+    </groups>
+    <test name="org.jpath.MapPathTest" duration-ms="155" started-at="2011-02-27T13:48:27Z" finished-at="2011-02-27T13:48:27Z">
+      <class name="org.jpath.MapPathTest">
+        <test-method status="PASS" signature="test_map_path()" name="test_map_path" duration-ms="119" started-at="2011-02-27T13:48:27Z" finished-at="2011-02-27T13:48:27Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

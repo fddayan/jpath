@@ -1,0 +1,20 @@
+THIS IS A WORK IN PROGRES
+
+JPath
+
+- Easy manipulation of data in java. 
+- Inspired by scripting languages (Groovy specially).
+
+You can do: 
+
+List<Map<String,String>> map = List(
+									Map(e("name",federico"),e("hobby","ruby")),
+									Map(e("name","mariano"),e("hobby","soccer")),
+									Map(e("name","nicolas"),e("hobby","soccer"))
+									);
+
+
+List<Map<String,String>> res = on(map).findAll(where("hobby").is("soccer")).collect("name").values();
+
+List<Map<String,String>> res = on(map).uniques().collect("hobby").Sort().values();
+

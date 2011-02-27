@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite hostname="ip-192-168-1-10.ec2.internal" name="org.jpath.MapPathTest" failures="0" timestamp="27 Feb 2011 18:48:27 GMT" errors="0">
+    <testcase name="test_map_path" time="119" classname="org.jpath.MapPathTest"/>
+  </testsuite>
+</testsuites>

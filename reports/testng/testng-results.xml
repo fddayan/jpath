@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="jpath">
+    <groups>
+    </groups>
+    <test name="Command line test">
+      <class name="org.jpath.MapPathTest">
+        <test-method status="PASS" signature="test_map_path()" name="test_map_path" duration-ms="114" started-at="2011-02-27T12:55:03Z" finished-at="2011-02-27T12:55:03Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
