@@ -2,8 +2,10 @@ THIS IS A WORK IN PROGRES
 
 JPath
 
-- Easy manipulation of data in java. 
+- Easy manipulation of data similar to scripting languages in java. 
 - Inspired by scripting languages (Groovy specially).
+
+- Hash map is the basic structure for storing data.
 
 You can do: 
 
