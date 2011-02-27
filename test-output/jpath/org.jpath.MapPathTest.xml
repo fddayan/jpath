@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="ip-192-168-1-10.ec2.internal" name="org.jpath.MapPathTest" tests="1" failures="0" timestamp="27 Feb 2011 18:48:27 GMT" time="0.155" errors="0">
-  <testcase name="test_map_path" time="0.119" classname="org.jpath.MapPathTest"/>
-</testsuite>
