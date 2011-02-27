@@ -10,7 +10,7 @@ JPath
 You can do: 
 
 List<Map<String,String>> map = List(
-									Map(e("name",federico"),e("hobby","ruby")),
+									Map(e("name",federico"),e("hobby","rugby")),
 									Map(e("name","mariano"),e("hobby","soccer")),
 									Map(e("name","nicolas"),e("hobby","soccer"))
 									);
